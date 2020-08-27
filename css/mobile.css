@@ -15,9 +15,6 @@
     align-self: center;
     margin-bottom: 0;
   }
-  .made-txt{
-    padding: 0 0 0 0;
-  }
   /* Smartphones */
   @media(max-width: 500px) {
     #navbar {
@@ -81,5 +78,4 @@
     .lead {
       font-size: 1rem;
     }
-    
   }
