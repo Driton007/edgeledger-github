@@ -213,3 +213,9 @@ p{
     width: 100%;
     padding: 0.5rem;
 }
+.made-by{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
